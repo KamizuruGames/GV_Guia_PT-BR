@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "GV_Guia_PT-BR",
+	"author": "Owyn",
+	"translator": "Kamizuru",
+	"description": "Guia para Gossamer Vault",
+	"options": {
+		"niceName": "GV_Guia_PT-BR"
+	},
+	"servers": ["https://raw.githubusercontent.com/KamizuruGames/GV_Guia_PT-BR/master/"],
+	"supportUrl": "https://github.com/KamizuruGames/GV_Guia_PT-BR/issues"
+}
