@@ -1,4 +1,10 @@
 # GV_Guia_PT-BR (Versão Traduzida para o Português Brasileiro do guia do Owyn)
+Guia para o ultimo Boss da Gossamer Vault, Normal Mode e Hard Mode.
+
+O script detecta automaticamente o Boss, qual Modo de Dungeon é, e a sua classe: Tank ou DPS.
+
+# Outras Traduções
+**[Inglês (English) by Owyn](https://github.com/Owyn/nest-guide)**
 
 # Comandos:
 Utilizável apenas dentro da Gossamer Vault. O uso dos comandos fora da Gossamer Vault ira retornar um valor indefinido.
